@@ -5,16 +5,14 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'dart:ui';
 
-import 'package:camera/camera.dart';
 import 'package:device_info/device_info.dart';
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_better_camera/camera.dart';
 import 'package:flutter_widgets/flutter_widgets.dart';
 import 'package:path_provider/path_provider.dart';
-
-export 'package:camera/camera.dart';
 
 part 'utils.dart';
 
