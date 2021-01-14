@@ -14,11 +14,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  firebase_ml_vision: ^0.10.0
+  firebase_ml_vision: ^0.9.7
   flutter_widgets: ^0.1.12
-  path_provider: ^1.6.27
-  pedantic: ^1.9.2
-  device_info: ^1.0.0
+  path_provider: ^1.6.18
+  pedantic: ^1.9.0
+  device_info: ^0.4.2+8
   flutter_better_camera: ^0.6.1
 
 dev_dependencies:
